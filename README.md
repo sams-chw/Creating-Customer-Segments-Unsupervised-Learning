@@ -1,3 +1,3 @@
-#Creating Customer Segments ||
+Creating Customer Segments ||
 Unsupervised Learning ||
 Udacity MLND Project
